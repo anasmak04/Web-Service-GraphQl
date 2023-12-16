@@ -17,6 +17,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -77,7 +78,7 @@
       <workItem from="1702458100910" duration="424000" />
       <workItem from="1702674009781" duration="3403000" />
       <workItem from="1702739808259" duration="1705000" />
-      <workItem from="1702741541278" duration="2449000" />
+      <workItem from="1702741541278" duration="5685000" />
     </task>
     <task id="LOCAL-00001" summary="Initail Commit">
       <option name="closed" value="true" />
